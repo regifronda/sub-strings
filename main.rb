@@ -12,5 +12,3 @@ def substrings(strings, compare_substrings)
   end
   results_hash
 end
-
-puts substrings("below downtown", dictionary)
